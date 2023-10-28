@@ -1,23 +1,33 @@
 ![Header](https://github.com/turanskaya/turanskaya/blob/main/assets/NameSurname.jpg)
 
-##About me: 
+## About me: 
 ### Руководитель группы тестирования в компании Comlogic с опытом работы по специальности более пяти лет, в качестве руководителя - более трех лет.
 
-##Languages and Tools:
-![API](https://img.shields.io/badge/Postman-09799e?logo=Postman),
-![API](https://img.shields.io/badge/-Jmeter-09799e?logo=Apache%20Jmeter),
-![API](https://img.shields.io/badge/-KafkaTool-09799e?logo=Apache%20Kafka),
-![API](https://img.shields.io/badge/-AllureTestOps-09799e),
-![API](https://img.shields.io/badge/-PyCharm-09799e?logo=PyCharm),
-![API](https://img.shields.io/badge/-Git-09799e?logo=Git),
-![API](https://img.shields.io/badge/-Github-09799e?logo=Github),
-![API](https://img.shields.io/badge/-Gitlab-09799e?logo=Gitlab),
-![API](https://img.shields.io/badge/-Zabbix-09799e?logo=Zabbix),
-![API](https://img.shields.io/badge/-BPMN-09799e?logo=BPMN),
-![API](https://img.shields.io/badge/-Camunda-09799e?logo=Camunda),
-![API](https://img.shields.io/badge/-QAse-09799e?logo=QAse),
-![API](https://img.shields.io/badge/-1C-09799e?logo=1C),
-![API](https://img.shields.io/badge/-MSProject-09799e?logo=MSProject),
-![API](https://img.shields.io/badge/-Atlassian-09799e?logo=Atlassian)
+## Languages and Tools:
+![Postman](https://img.shields.io/badge/Postman-09799e?style=for-the-bage&logo=Postman),
+![Jmeter](https://img.shields.io/badge/-Jmeter-09799e?style=for-the-bage&logo=Apache%20Jmeter&logoColor=C60004),
+![Kafka](https://img.shields.io/badge/-KafkaTool-09799e?logo=Apache%20Kafka&logoColor=6a329f),
+![SQL](https://img.shields.io/badge/-SQL-09799e?logo=mysql&logoColor=000000),
+![Json](https://img.shields.io/badge/-JSON-09799e?logo=json&logoColor=000000),
+![Allure](https://img.shields.io/badge/-AllureTestOps-09799e?style=for-the-bage&logo=Allure),
+![PyCharm](https://img.shields.io/badge/-PyCharm-09799e?logo=PyCharm&logoColor=000000),
+![Git](https://img.shields.io/badge/-Git-09799e?logo=Git),
+![Github](https://img.shields.io/badge/-Github-09799e?logo=Github&logoColor=000000),
+![Gitlab](https://img.shields.io/badge/-Gitlab-09799e?logo=Gitlab),
+![Zabbix](https://img.shields.io/badge/-Zabbix-09799e?logo=Zabbix),
+![Atlassian](https://img.shields.io/badge/-Atlassian-09799e?logo=Atlassian&logoColor=06459c),
+![BPMN](https://img.shields.io/badge/-BPMN-09799e?logo=BPMN),
+![Camunda](https://img.shields.io/badge/-Camunda-09799e?logo=camunda),
+![QAse](https://img.shields.io/badge/-QAse-09799e?logo=QAse),
+![1C](https://img.shields.io/badge/-1C-09799e?logo=1C),
+![MsProject](https://img.shields.io/badge/-MSProject-09799e?logo=MSProject),
+![Fiddler](https://img.shields.io/badge/-Fiddler-09799e?logo=fiddler&logoColor=06459c),
+![Figma](https://img.shields.io/badge/-Figma-09799e?logo=figma),
+![Redmine](https://img.shields.io/badge/-Redmine-09799e?logo=redmine&logoColor=C60004),
+![Slack](https://img.shields.io/badge/-Slack-09799e?logo=slack&logoColor=fadf00)
+![Swagger](https://img.shields.io/badge/-Swagger-09799e?logo=swagger)
+![SoapUI](https://img.shields.io/badge/-SoapUI-09799e?logo=soapui)
+![TestRail](https://img.shields.io/badge/-TestRail-09799e?logo=testrail)
+
 
 
