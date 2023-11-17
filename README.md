@@ -31,7 +31,7 @@
 ![TestRail](https://img.shields.io/badge/-DevTools-09799e?logo=googlechrome)
 
 
-##QA management documentations
+## QA management documentations
 - [Methodologies](https://github.com/turanskaya)
 - [Testing Processes Descriptions](https://github.com/turanskaya/testing_processes_descriptions)
 - [Job Descriptions](https://github.com/turanskaya/job_descriptions)
@@ -39,5 +39,5 @@
 - [Competency Matrix](https://github.com/turanskaya/competency_matrix)
 - [Career Trajectory Management](https://github.com/turanskaya/career_trajectory_management)
 
-##QA testing documentations
+## QA testing documentations
 - [Testing artifacts](https://github.com/turanskaya/testing_artifacts)
