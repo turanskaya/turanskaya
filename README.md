@@ -1,5 +1,3 @@
-![Header](https://github.com/turanskaya/turanskaya/blob/main/assets/NameSurname.jpg)
-
 ## About me: 
 ### Руководитель группы тестирования с опытом работы по специальности более пяти лет, в качестве руководителя - более трех лет.
 Мои достижения:
