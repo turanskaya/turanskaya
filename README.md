@@ -35,7 +35,7 @@
 
 
 ## QA management documentations
-- [Methodologies](https://github.com/turanskaya)
+- [Methodologies](https://github.com/turanskaya/methodologies)
 - [Testing Processes Descriptions](https://github.com/turanskaya/testing_processes_descriptions)
 - [Job Descriptions](https://github.com/turanskaya/job_descriptions)
 - [Supporting Teaching Materials](https://github.com/turanskaya/supporting_teaching_materials)
